@@ -48,7 +48,6 @@
 ### Devil Fruits: AI, ML and Data
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=f6c453" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=f6c453" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Sentence%20Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=f6c453" alt="Sentence Transformers" />
   <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f6c453" alt="scikit-learn" />
