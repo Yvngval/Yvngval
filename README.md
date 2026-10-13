@@ -5,12 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/Yvngval">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=24C6DC&center=true&vCenter=true&width=620&lines=Computer+science+student+%F0%9F%8E%93;I+turn+data+into+models+that+explain+themselves;Search+engines%2C+ANN+indexes%2C+privacy+attacks;Python+%E2%80%A2+R+%E2%80%A2+React+%E2%80%A2+Django+%E2%80%A2+Express" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=24C6DC&center=true&vCenter=true&width=620&lines=M2+DCI+student+%40+Universit%C3%A9+Paris+Cit%C3%A9+%F0%9F%8E%93;I+turn+data+into+models+that+explain+themselves;Search+engines%2C+ANN+indexes%2C+privacy+attacks;Python+%E2%80%A2+R+%E2%80%A2+React+%E2%80%A2+Django+%E2%80%A2+Express" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yvngval?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13-302b63?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://www.linkedin.com/in/valentin-ponnoussamy-ia/"><img src="https://img.shields.io/badge/LinkedIn-Valentin%20Ponnoussamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://u-paris.fr/"><img src="https://img.shields.io/badge/Universit%C3%A9%20Paris%20Cit%C3%A9-M2%20DCI-302b63?style=for-the-badge&logo=bookstack&logoColor=white" alt="Université Paris Cité" /></a>
   <img src="https://komarev.com/ghpvc/?username=Yvngval&style=for-the-badge&color=24c6dc&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -20,7 +21,9 @@
 
 ```python
 class Valentin:
-    role      = "Computer Science Student"
+    role      = "Master's student, M2 DCI"
+    school    = "Université Paris Cité"
+    program   = "Données, Connaissances et Intelligence"
     focus     = ["Machine Learning", "Information Retrieval", "Data Privacy", "Full-Stack Web"]
     languages = ["Python", "R", "JavaScript", "SQL"]
     motto     = "A model you can't explain is a model you can't trust."
@@ -32,7 +35,9 @@ class Valentin:
 - 🔭 I like projects where **measuring** matters as much as building: benchmarks, ablations, honest metrics.
 - 🧠 Interested in **explainable AI**, **vector search** and **privacy-preserving data**.
 - 🌐 I also ship **full-stack apps** with React, Django REST Framework and Express.
+- 🎓 Master's student in **DCI** (*Données, Connaissances et Intelligence*) at **Université Paris Cité**.
 - 🇫🇷 / 🇬🇧 French & English.
+- 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/valentin-ponnoussamy-ia/).
 
 ---
 
