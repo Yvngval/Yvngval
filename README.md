@@ -35,9 +35,9 @@
 
 ## Training Arc
 
-- **Master in Data, Knowledge and Intelligence (DCI)**, Université Paris Cité — since September 2025
+- **Master in Data, Knowledge and Intelligence (DCI)**, Université Paris Cité — since September 2025<br />
   M2 in progress, M1 with honors. Machine learning, data science, big data and stream processing, time series, semantic extraction and integration, logic and reasoning in AI, knowledge and uncertainty representation, planning.
-- **Bachelor's degree in Computer Science**, Université Paris Cité — 2021–2025, with honors
+- **Bachelor's degree in Computer Science**, Université Paris Cité — 2021–2025, with honors<br />
   Algorithms, data structures, databases, artificial intelligence, digital data processing, Java / C / Python programming, software engineering.
 
 ## Voyages
