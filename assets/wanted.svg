@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="580" viewBox="0 0 400 580">
+  <defs>
+    <radialGradient id="paper" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#f6e7c1"/>
+      <stop offset="65%" stop-color="#e9d19a"/>
+      <stop offset="100%" stop-color="#b98f52"/>
+    </radialGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="7"/>
+      <feColorMatrix values="0 0 0 0 0.35  0 0 0 0 0.24  0 0 0 0 0.1  0 0 0 0.22 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+    <filter id="stains">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="2" seed="3"/>
+      <feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.3  0 0 0 0 0.12  0 0 0 -2.2 1.25"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d8c08a"/>
+      <stop offset="100%" stop-color="#a98552"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="48" y="132" width="304" height="236"/></clipPath>
+  </defs>
+
+  <!-- Paper -->
+  <path d="M8 10 L392 4 L396 300 L390 574 L12 578 L4 290 Z" fill="url(#paper)"/>
+  <path d="M8 10 L392 4 L396 300 L390 574 L12 578 L4 290 Z" fill="#000" filter="url(#stains)"/>
+  <path d="M8 10 L392 4 L396 300 L390 574 L12 578 L4 290 Z" fill="#000" filter="url(#grain)"/>
+
+  <!-- Title -->
+  <text x="200" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="900" font-size="84" textLength="330" lengthAdjust="spacingAndGlyphs" fill="#3b2412" transform="scale(1,1.12) translate(0,-12)">WANTED</text>
+
+  <!-- Portrait frame -->
+  <rect x="44" y="128" width="312" height="244" fill="none" stroke="#3b2412" stroke-width="4"/>
+  <g clip-path="url(#frame)">
+    <rect x="48" y="132" width="304" height="236" fill="url(#sea)"/>
+    <!-- sun rays -->
+    <g stroke="#c9a467" stroke-width="10" opacity="0.55">
+      <line x1="200" y1="250" x2="40" y2="140"/><line x1="200" y1="250" x2="120" y2="120"/>
+      <line x1="200" y1="250" x2="200" y2="110"/><line x1="200" y1="250" x2="280" y2="120"/>
+      <line x1="200" y1="250" x2="360" y2="140"/><line x1="200" y1="250" x2="370" y2="230"/>
+      <line x1="200" y1="250" x2="30" y2="230"/>
+    </g>
+    <!-- silhouette -->
+    <path d="M200 216 c-30 0 -50 24 -50 54 c0 22 10 38 24 46 c-46 10 -82 34 -92 60 h236 c-10 -26 -46 -50 -92 -60 c14 -8 24 -24 24 -46 c0 -30 -20 -54 -50 -54 z" fill="#3b2412"/>
+    <!-- straw hat -->
+    <ellipse cx="200" cy="232" rx="98" ry="20" fill="#e2b04a" stroke="#3b2412" stroke-width="4"/>
+    <path d="M140 230 C140 186 166 170 200 170 C234 170 260 186 260 230 Z" fill="#edc25e" stroke="#3b2412" stroke-width="4"/>
+    <path d="M141 214 C170 222 230 222 259 214 L260 230 C230 238 170 238 140 230 Z" fill="#b3261e" stroke="#3b2412" stroke-width="3"/>
+    <g stroke="#b88a2c" stroke-width="2" fill="none" opacity="0.8">
+      <path d="M160 190 C175 184 225 184 240 190"/>
+      <path d="M150 204 C175 196 225 196 250 204"/>
+      <path d="M118 240 C160 248 240 248 282 240"/>
+    </g>
+    <!-- code glyph on chest -->
+    <text x="200" y="356" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="30" fill="#e9d19a">&lt;/&gt;</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="200" y="412" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="28" textLength="270" lengthAdjust="spacingAndGlyphs" fill="#3b2412">DATA OR ALIVE</text>
+
+  <!-- Name -->
+  <text x="200" y="462" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="900" font-size="34" textLength="320" lengthAdjust="spacingAndGlyphs" fill="#3b2412">VALENTIN “YVNGVAL”</text>
+
+  <!-- Bounty -->
+  <text x="200" y="514" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="900" font-size="40" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#3b2412">฿ 1,300,000,000 -</text>
+
+  <!-- Footer -->
+  <line x1="60" y1="534" x2="340" y2="534" stroke="#3b2412" stroke-width="1.5"/>
+  <text x="200" y="556" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#3b2412">Université Paris Cité · M2 DCI · Grand Line of Data</text>
+</svg>
