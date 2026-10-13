@@ -15,14 +15,11 @@
 
 <br />
 
-<table align="center">
-<tr>
-<td width="42%" align="center" valign="middle">
-  <img src="assets/wanted.svg" alt="Wanted poster: Valentin 'Yvngval', bounty 1,300,000,000" width="290" />
-</td>
-<td width="58%" valign="middle">
+<p align="center">
+  <img src="assets/wanted.svg" alt="Wanted poster: Valentin 'Yvngval', bounty 1,300,000,000" width="320" />
+</p>
 
-### 🏴‍☠️ Captain's Log
+## 🏴‍☠️ Captain's Log
 
 ```python
 class Pirate:
@@ -37,10 +34,6 @@ class Pirate:
     def set_sail(self):
         return "Benchmark everything. Trust nothing unmeasured."
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
