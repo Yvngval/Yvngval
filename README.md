@@ -1,10 +1,10 @@
 <!-- Header: the open sea -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,45:0e4d7a,100:1fa2c9&height=230&section=header&text=The%20Grand%20Line%20of%20Data&fontSize=46&fontColor=f6c453&fontAlignY=36&desc=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%20Captain%20Yvngval%27s%20Log%20%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F&descAlignY=56&descSize=18&animation=twinkling" alt="The Grand Line of Data" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,45:0e4d7a,100:1fa2c9&height=230&section=header&text=The%20Grand%20Line%20of%20Data&fontSize=46&fontColor=f6c453&fontAlignY=36&desc=Captain%20Yvngval%27s%20Log&descAlignY=56&descSize=18&animation=twinkling" alt="The Grand Line of Data" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&pause=1200&color=F6C453&center=true&vCenter=true&width=700&lines=I'm+gonna+be+King+of+the+Data+Scientists!;Sailing+the+Grand+Line+of+Machine+Learning+%E2%9B%B5;Hunting+the+One+Piece+%E2%80%94+a+perfectly+clean+dataset;Every+model+explained.+No+mystery+treasure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&pause=1200&color=F6C453&center=true&vCenter=true&width=700&lines=I'm+gonna+be+King+of+the+Data+Scientists!;Sailing+the+Grand+Line+of+Machine+Learning;Hunting+the+One+Piece+%E2%80%94+a+perfectly+clean+dataset;Every+model+explained.+No+mystery+treasure." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <img src="assets/wanted.svg" alt="Wanted poster: Valentin 'Yvngval', bounty 1,300,000,000" width="320" />
 </p>
 
-## 🏴‍☠️ Captain's Log
+## Captain's Log
 
 ```python
 class Pirate:
@@ -37,14 +37,14 @@ class Pirate:
 
 ---
 
-## 🗺️ Islands I've Conquered
+## Islands I've Conquered
 
 > *Each project is an arc. Each arc made the crew stronger.*
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⛓️ Impel Down Arc</h3>
+      <h3>Impel Down Arc</h3>
       <p><a href="https://github.com/Yvngval/TER_Project"><b>TER — Anonymize, then attack</b></a><br />
       Lock the data in the deepest prison, then try to break it out: a <b>privacy–utility benchmark</b> with ARX, re-identification and membership inference attacks.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -52,7 +52,7 @@ class Pirate:
       <img src="https://img.shields.io/badge/MIA-Privacy-b3261e?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔧 Water 7 Arc</h3>
+      <h3>Water 7 Arc</h3>
       <p><a href="https://github.com/Yvngval/Predictive-Maintenance-Explainable-ML"><b>Explainable Predictive Maintenance</b></a><br />
       Know the ship will break <i>before</i> it sinks. Logistic regression, Random Forest and <b>XGBoost</b> on AI4I 2020, compared on PR-AUC and explained with <b>SHAP</b>.</p>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -62,14 +62,14 @@ class Pirate:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 Log Pose Arc</h3>
+      <h3>Log Pose Arc</h3>
       <p><a href="https://github.com/Yvngval/Project-ANN-Comparative-Method"><b>ANN Search Benchmark</b></a><br />
       Find the nearest island among a million: <b>HNSW vs IVF-PQ vs LSH</b> on SIFT1M with FAISS, plus a PCA compression study.</p>
       <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=flat-square&logo=meta&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🪨 Poneglyph Arc</h3>
+      <h3>Poneglyph Arc</h3>
       <p><a href="https://github.com/Yvngval/Data_Science_Project"><b>Kaggle Search Engine</b></a><br />
       Decipher the ancient texts: <b>TF-IDF, BM25+ and Sentence Transformers</b>, with category reranking and rank fusion.</p>
       <img src="https://img.shields.io/badge/BM25+-IR-2E8B57?style=flat-square" />
@@ -79,14 +79,14 @@ class Pirate:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Ohara Arc</h3>
+      <h3>Ohara Arc</h3>
       <p><a href="https://github.com/Yvngval/ASADI-Assistant"><b>ASADI — AI Study Assistant</b></a><br />
       The island of scholars: my bachelor's final project, an <b>AI educational assistant</b> using RAG & LLMs for document-based learning.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/RAG-LLM-FF6F00?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🫧 Sabaody Arc</h3>
+      <h3>Sabaody Arc</h3>
       <p><a href="https://github.com/Yvngval/Projet_Web"><b>Full-Stack Event Manager</b></a><br />
       Where every crew meets: React frontend, <b>two interchangeable REST backends</b> (Django REST Framework & Express) and JWT role-based auth.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -97,29 +97,29 @@ class Pirate:
 </table>
 
 <details>
-  <summary><b>🏝️ Side quests (filler arcs, but canon)</b></summary>
+  <summary><b>Side quests (filler arcs, but canon)</b></summary>
   <br />
 
 | Arc | Project | What it is | Stack |
 |---|---|---|---|
-| ⚖️ Enies Lobby | [Projet_RCR](https://github.com/Yvngval/Projet_RCR) | Solver for Dung argumentation frameworks (stable & preferred semantics) | Python |
-| 🩺 Drum Island | [Survival-data-analysis](https://github.com/Yvngval/Survival-data-analysis) | Five-year breast cancer survival on Haberman's dataset, with clustering | R · ggplot2 |
-| 🎲 Long Ring Long Land | [Quoridor-Project](https://github.com/Yvngval/Quoridor-Project) | The Quoridor board game | Python |
-| 🗄️ The ship's hold | [mini-SGBD](https://github.com/Yvngval/mini-SGBD) | A minimal database management system | — |
+| Enies Lobby | [Projet_RCR](https://github.com/Yvngval/Projet_RCR) | Solver for Dung argumentation frameworks (stable & preferred semantics) | Python |
+| Drum Island | [Survival-data-analysis](https://github.com/Yvngval/Survival-data-analysis) | Five-year breast cancer survival on Haberman's dataset, with clustering | R · ggplot2 |
+| Long Ring Long Land | [Quoridor-Project](https://github.com/Yvngval/Quoridor-Project) | The Quoridor board game | Python |
+| The ship's hold | [mini-SGBD](https://github.com/Yvngval/mini-SGBD) | A minimal database management system | — |
 
 </details>
 
 ---
 
-## ⚔️ The Crew's Arsenal
+## The Crew's Arsenal
 
 <p align="center">
-  <b>🗣️ Languages of the seas</b><br /><br />
+  <b>Languages of the seas</b><br /><br />
   <img src="https://skillicons.dev/icons?i=python,r,js,html,css&theme=dark" alt="Languages" />
 </p>
 
 <p align="center">
-  <b>🔮 Devil fruits (Data & ML)</b><br /><br />
+  <b>Devil fruits (Data & ML)</b><br /><br />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -131,20 +131,20 @@ class Pirate:
 </p>
 
 <p align="center">
-  <b>⚓ Shipwright tools (Web & Tools)</b><br /><br />
+  <b>Shipwright tools (Web & Tools)</b><br /><br />
   <img src="https://skillicons.dev/icons?i=react,django,nodejs,express,git,github,vscode&theme=dark" alt="Web & tools" />
 </p>
 
 ---
 
-## 🌊 Bounty Board
+## Bounty Board
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yvngval&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f6c453&icon_color=f6c453&text_color=e6edf3&bg_color=0b1d3a&custom_title=Yvngval%27s%20Voyage%20Log" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvngval&layout=compact&hide_border=true&langs_count=6&title_color=f6c453&text_color=e6edf3&bg_color=0b1d3a&custom_title=Languages%20Spoken%20Aboard" alt="Top languages" />
 </p>
 
-<p align="center"><b>🐉 A Sea King devouring my contributions</b></p>
+<p align="center"><b>A Sea King devouring my contributions</b></p>
 
 <p align="center">
   <picture>
@@ -157,7 +157,7 @@ class Pirate:
 
 <p align="center">
   <i>“The One Piece is real… and it's well-documented code.”</i><br /><br />
-  ⭐ Drop a star if you'd join the crew!
+  Drop a star if you'd join the crew!
 </p>
 
 <!-- Footer: the sea again -->
